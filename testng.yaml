@@ -1,0 +1,7 @@
+name: enquodeTesting
+configFailurePolicy: skip
+tests:
+  - name: testngTest
+    classes:
+      - testClass.TestCases
+
